@@ -8,6 +8,7 @@ Clone do Spotify.
 - HTML
 - CSS
 - JavaScript
+- Bootstrap
 - Git e Github
 
 ## 😁 O que aprendi 
